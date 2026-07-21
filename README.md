@@ -1,7 +1,7 @@
 # Student Record & Grade Management System (CLI)
 
-**Intern Name:** [Your Name Here]
-**Intern Batch:** [Your Batch Here]
+**Intern Name:** [Husnain Shoukat]
+**Intern Batch:** [2026]
 **Track:** Week 1 — Python Fundamentals + Mini Project
 **Company:** OvacSol Pvt. Ltd.
 
